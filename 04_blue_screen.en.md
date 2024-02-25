@@ -6,7 +6,7 @@ grand_parent: Ultimates
 permalink: /ultimates/top/04_blue_screen/
 ---
 
-# 藍頻
+# 藍屏
 
 在上個階段打倒Omega之後，Omega會重新啟動，將血量重置回100%。
 
